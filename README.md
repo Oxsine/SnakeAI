@@ -1,1 +1,1 @@
-AI snake
+snake with reinforcement learning 
